@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name":"Alexandra Stout",
+    "occupation":"VP of Marketing",
+    "description":"Exceptionally creative and dependable Entry Level Web Developer with a stellar customer service record and superb work ethic. Broadly and deeply knowledgeable in a wide variety of computer languages as well as the principles and techniques of website construction and maintenance. Highly adept at conveying complex technical information to a variety of professional and lay audiences in a clear and understandable manner.",
+    "image":"Alex web.jpg",
+    "bio":"Hello, here is my bio, I am not sure what I want to put here.",
+    "contactmessage":"Please contact me for any additional questions or comments",
+    "email": "vickalexandra3@gmail.com",
+    "phone": "253-820-5572",
+    "address":{
+      "street":"11904 Elk Heights Lane SE",
+      "city":"Yelm",
+      "state":"Wa",
+      "zip": "98597"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Alexnaj/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/alexandra-jacobs-261020188/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/alexvick19",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/astout19",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Exceptionally creative and dependable Entry Level Web Developer with a stellar customer service record and superb work ethic. Broadly and deeply knowledgeable in a wide variety of computer languages as well as the principles and techniques of website construction and maintenance. Highly adept at conveying complex technical information to a variety of professional and lay audiences in a clear and understandable manner.",
+    "education":[
+      {
+        "school":"University",
+        "degree":"Masters in Healthcare Administration",
+        "graduated":"June 2015",
+        "description":"University of Arizona"
+      },
+      {
+        "school":"University",
+        "degree":"Bachelors of Science - Nursing",
+        "graduated":"June 2011",
+        "description":"University of Arizona"
+      },
+      {
+        "school":"Boot Camp",
+        "degree":"Web Development",
+        "graduated":"December 2020",
+        "description":"University of Washington"
+      }
+    ],
+    "work":[
+      {
+        "company":"Tacoma Lutheran Retirement Community",
+        "title":"VP of Marketing ",
+        "years":"January 2018 - Present",
+        "description":"Oversee marketing department"
+      },
+      {
+        "company":"CHI Franciscan",
+        "title":"Director of Business Development",
+        "years":"2016-2017",
+        "description":"Oversee the business development section"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"100%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Tacoma Lutheran Retirement Community",
+        "category":"Retirement Company Website",
+        "image":"TacomaLutheran.jpg",
+        "url":"https://www.tacomalutheran.org"
+      },
+      {
+        "title":"LCCA Website",
+        "category":"Website I helped develop and Launch",
+        "image":"lcca.jpg",
+        "url":"http://www.lcca.com"
+      },
+      {
+        "title":"Fitness tracker",
+        "category":"Fitness Tracker",
+        "image":"fitness-tracker-screenshot.png",
+        "url":""
+      },
+      {
+        "title":"Fat Sugar Booze",
+        "category":"Project 2",
+        "image":"FSB_screenshot.png",
+        "url":"https://github.com/JoannaTanveer/FatSugarBooze.git"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Easy to work with, hard worker, and the ability to deliver on time.",
+        "user":"Jody Matthews"
+      },
+      {
+        "text":"Fun and easy going. Always willing to help out!",
+        "user":"Steven Matthews"
+      }
+    ]
+  }
+}
