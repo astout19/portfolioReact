@@ -1,10 +1,10 @@
 {
   "main": {
-    "name":"Alexandra Stout",
-    "occupation":"VP of Marketing",
-    "description":"Exceptionally creative and dependable Entry Level Web Developer with a stellar customer service record and superb work ethic. Broadly and deeply knowledgeable in a wide variety of computer languages as well as the principles and techniques of website construction and maintenance. Highly adept at conveying complex technical information to a variety of professional and lay audiences in a clear and understandable manner.",
+    "name":"Alexandra Vick",
+    "occupation":"Marketing and Web Development",
+    "description":"Marketing, Public Relations and Web Developer with 7+ years of experience is seeking to use my executive management, collaborative team building, communications, and branding expertise to build organizational value for a forward-thinking organization",
     "image":"Alex web.jpg",
-    "bio":"Hello, here is my bio, I am not sure what I want to put here.",
+    "bio":"I am Alexandra Vick, I am passionate about Marketing and making a difference at a company. I enjoy and thrive in the ability to think outside the box. My plan is world domination...one company at a time. ;)",
     "contactmessage":"Please contact me for any additional questions or comments",
     "email": "vickalexandra3@gmail.com",
     "phone": "253-820-5572",
@@ -16,32 +16,6 @@
     },
     "website": "",
     "resumedownload":"",
-    "social":[
-      {
-        "name":"facebook",
-        "url":"https://www.facebook.com/Alexnaj/",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/alexandra-jacobs-261020188/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/alexvick19",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/astout19",
-        "className":"fa fa-github"
-      }
     ]
   },
   "resume":{
@@ -68,46 +42,51 @@
     ],
     "work":[
       {
-        "company":"Tacoma Lutheran Retirement Community",
-        "title":"VP of Marketing ",
+        "company":"eliseo",
+        "title":"Public Relations and Marketing Director ",
         "years":"January 2018 - Present",
-        "description":"Oversee marketing department"
+        "description":"Responsible for all Marketing Functions which include branding, corporate communications, product marketing and marketing communications strategies and programs for eliseo campus. Identifying and researching new revenue opportunities in current and potential markets. Identifying opportunities for increasing visibility, brand recognition and engagement with multiple audiences in current markets (investors, press, customers, users, strategic partners). Designing & managing the execution of integrated communications programs across multiple communications channels (print, digital, event, social). Soliciting & analyzing user feedback & directing the product development, support and marketing teams on ux/ui improvements. Developed the new brand slogan, personality, and advertising program that grew brand recognition. "
       },
       {
         "company":"CHI Franciscan",
         "title":"Director of Business Development",
-        "years":"2016-2017",
-        "description":"Oversee the business development section"
-      }
+        "years":"2018-2018",
+        "description":"Monitoring, analyzing, and improving the performance of all marketing initiatives and platforms.  Develop the custom cross-departmental business intelligence reporting, using Microsoft. Responsible for generating new contacts and sales leads. Identifying potential customers, maintaining a good relationship with company contacts, communicating new product or service developments to customers, making presentations, attending networking events, and following up new business opportunities."
+      },
+      {
+        "company":"Life Care Centers of America",
+        "title":"Director of Business Development",
+        "years":"2015-2018",
+        "description":"Monitoring, analyzing, and improving the performance of all marketing initiatives and platforms.  Develop the custom cross-departmental business intelligence reporting, using Microsoft. Responsible for generating new contacts and sales leads. Identifying potential customers, maintaining a good relationship with company contacts, communicating new product or service developments to customers, making presentations, attending networking events, and following up new business opportunities."
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"100%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Adobe Creative Suite",
         "level":"90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"Google Drive",
+        "level":"100%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"HubSpot",
+        "level":"100%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Google Business Suite",
+        "level":"90%"
+      },
+      {
+        "name":"Marketing Strategy",
+        "level":"100%"
+      },
+      {
+        "name":"Project Management",
+        "level":"100%"
+      },
+      {
+        "name":"Social Media Marketing",
+        "level":"90%"
       }
     ]
   },
@@ -120,20 +99,20 @@
         "url":"https://www.tacomalutheran.org"
       },
       {
-        "title":"LCCA Website",
-        "category":"Website I helped develop and Launch",
+        "title":"eliseo's website",
+        "category":"Life Plan Community Website",
         "image":"lcca.jpg",
-        "url":"http://www.lcca.com"
+        "url":"http://www.eliseo.org"
       },
       {
-        "title":"Fitness tracker",
-        "category":"Fitness Tracker",
+        "title":"eliseo Memory Care",
+        "category":"Direct Mail Piece",
         "image":"fitness-tracker-screenshot.png",
         "url":""
       },
       {
-        "title":"Fat Sugar Booze",
-        "category":"Project 2",
+        "title":"eliseo Sales Material",
+        "category":"eliseo Sales Department Trifold",
         "image":"FSB_screenshot.png",
         "url":"https://github.com/JoannaTanveer/FatSugarBooze.git"
       }
